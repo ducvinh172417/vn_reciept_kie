@@ -91,11 +91,8 @@ or
 pip install -r requirements
 ```
 
-3. Run localhost
+3. Run code with index.py
 
-```
-python -m streamlit run VIE_run.py
-```
 
 ## References
 
